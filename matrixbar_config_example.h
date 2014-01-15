@@ -11,7 +11,7 @@
  *
  * ----------------------------------------------------------------------------
  *
- * \file matrixbar_config.h
+ * \file matrixbar_config_example.h
  *
  * \date Created: 04.02.2012 21:18:18
  * \author Matthias Kleemann
