@@ -1,4 +1,6 @@
 /**
- * \page page2 The Matrix Bargraph
- * Some explanation here!
+ * \page page_matrixbar The Matrix Bargraph
+ *
+ * The matrix bargraph is nothing else than multiple bargraphs with the same
+ * setup. They are controlled by a column/row "matrix", hence the name.
  */
