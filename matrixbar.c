@@ -18,7 +18,7 @@
  **/
 
 
-#include "../util/util.h"
+#include "util/util.h"
 #include "matrixbar.h"
 
 /***************************************************************************/
