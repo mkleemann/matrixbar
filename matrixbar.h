@@ -22,7 +22,7 @@
 #ifndef MATRIXBAR_H_
 #define MATRIXBAR_H_
 
-#include "matrixbar_config.h"
+#include "config/matrixbar_config.h"
 
 /***************************************************************************/
 /* TYPEDEFS                                                                */
