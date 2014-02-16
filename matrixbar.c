@@ -221,6 +221,18 @@ void matrixbar_reset_col(uint8_t whichColumn)
 }
 
 /**
+ * \brief get the number of columns
+ * \return number of columns in use
+ *
+ * The number of columns is used to switch between them. Here the
+ * unique pins are meant, which are defined in P_MATRIXBAR_COL.
+ */
+uint8_t matrixbar_get_num_of_cols(void)
+{
+   return(numPinsInCol);
+}
+
+/**
  * \brief get highest bit set
  * \param value - value to be evaluated
  * \return number of highest bit set
